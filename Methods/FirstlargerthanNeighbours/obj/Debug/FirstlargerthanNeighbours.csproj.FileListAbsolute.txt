@@ -1,0 +1,6 @@
+D:\Programmierung\C#\C#Part2\HomeworkMethods\FirstlargerthanNeighbours\bin\Debug\FirstlargerthanNeighbours.exe.config
+D:\Programmierung\C#\C#Part2\HomeworkMethods\FirstlargerthanNeighbours\bin\Debug\FirstlargerthanNeighbours.exe
+D:\Programmierung\C#\C#Part2\HomeworkMethods\FirstlargerthanNeighbours\bin\Debug\FirstlargerthanNeighbours.pdb
+D:\Programmierung\C#\C#Part2\HomeworkMethods\FirstlargerthanNeighbours\obj\Debug\FirstlargerthanNeighbours.exe
+D:\Programmierung\C#\C#Part2\HomeworkMethods\FirstlargerthanNeighbours\obj\Debug\FirstlargerthanNeighbours.pdb
+D:\Programmierung\C#\C#Part2\HomeworkMethods\FirstlargerthanNeighbours\obj\Debug\FirstlargerthanNeighbours.csprojResolveAssemblyReference.cache

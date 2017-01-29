@@ -1,0 +1,5 @@
+D:\Programmierung\C#\C#Part2\HomeworkMethods\NumberAsArray\bin\Debug\NumberAsArray.exe.config
+D:\Programmierung\C#\C#Part2\HomeworkMethods\NumberAsArray\bin\Debug\NumberAsArray.exe
+D:\Programmierung\C#\C#Part2\HomeworkMethods\NumberAsArray\bin\Debug\NumberAsArray.pdb
+D:\Programmierung\C#\C#Part2\HomeworkMethods\NumberAsArray\obj\Debug\NumberAsArray.exe
+D:\Programmierung\C#\C#Part2\HomeworkMethods\NumberAsArray\obj\Debug\NumberAsArray.pdb

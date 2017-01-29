@@ -1,0 +1,5 @@
+D:\Programmierung\C#\C#Part2\HomeworkMethods\HomeworkMethods\bin\Debug\HomeworkMethods.exe.config
+D:\Programmierung\C#\C#Part2\HomeworkMethods\HomeworkMethods\bin\Debug\HomeworkMethods.exe
+D:\Programmierung\C#\C#Part2\HomeworkMethods\HomeworkMethods\bin\Debug\HomeworkMethods.pdb
+D:\Programmierung\C#\C#Part2\HomeworkMethods\HomeworkMethods\obj\Debug\HomeworkMethods.exe
+D:\Programmierung\C#\C#Part2\HomeworkMethods\HomeworkMethods\obj\Debug\HomeworkMethods.pdb

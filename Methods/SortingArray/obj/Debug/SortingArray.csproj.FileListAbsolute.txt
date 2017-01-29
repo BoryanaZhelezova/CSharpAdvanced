@@ -1,0 +1,5 @@
+D:\Programmierung\C#\C#Part2\HomeworkMethods\SortingArray\bin\Debug\SortingArray.exe.config
+D:\Programmierung\C#\C#Part2\HomeworkMethods\SortingArray\bin\Debug\SortingArray.exe
+D:\Programmierung\C#\C#Part2\HomeworkMethods\SortingArray\bin\Debug\SortingArray.pdb
+D:\Programmierung\C#\C#Part2\HomeworkMethods\SortingArray\obj\Debug\SortingArray.exe
+D:\Programmierung\C#\C#Part2\HomeworkMethods\SortingArray\obj\Debug\SortingArray.pdb

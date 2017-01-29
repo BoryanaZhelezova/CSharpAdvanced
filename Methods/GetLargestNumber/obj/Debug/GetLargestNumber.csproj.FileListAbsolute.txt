@@ -1,0 +1,6 @@
+D:\Programmierung\C#\C#Part2\HomeworkMethods\GetLargestNumber\bin\Debug\GetLargestNumber.exe.config
+D:\Programmierung\C#\C#Part2\HomeworkMethods\GetLargestNumber\bin\Debug\GetLargestNumber.exe
+D:\Programmierung\C#\C#Part2\HomeworkMethods\GetLargestNumber\bin\Debug\GetLargestNumber.pdb
+D:\Programmierung\C#\C#Part2\HomeworkMethods\GetLargestNumber\obj\Debug\GetLargestNumber.exe
+D:\Programmierung\C#\C#Part2\HomeworkMethods\GetLargestNumber\obj\Debug\GetLargestNumber.pdb
+D:\Programmierung\C#\C#Part2\HomeworkMethods\GetLargestNumber\obj\Debug\GetLargestNumber.csprojResolveAssemblyReference.cache

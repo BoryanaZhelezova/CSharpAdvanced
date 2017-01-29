@@ -1,0 +1,5 @@
+D:\Programmierung\C#\C#Part2\HomeworkMethods\EnglishDigit\bin\Debug\EnglishDigit.exe.config
+D:\Programmierung\C#\C#Part2\HomeworkMethods\EnglishDigit\bin\Debug\EnglishDigit.exe
+D:\Programmierung\C#\C#Part2\HomeworkMethods\EnglishDigit\bin\Debug\EnglishDigit.pdb
+D:\Programmierung\C#\C#Part2\HomeworkMethods\EnglishDigit\obj\Debug\EnglishDigit.exe
+D:\Programmierung\C#\C#Part2\HomeworkMethods\EnglishDigit\obj\Debug\EnglishDigit.pdb

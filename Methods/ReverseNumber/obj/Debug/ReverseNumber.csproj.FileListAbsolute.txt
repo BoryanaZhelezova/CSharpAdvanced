@@ -1,0 +1,5 @@
+D:\Programmierung\C#\C#Part2\HomeworkMethods\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+D:\Programmierung\C#\C#Part2\HomeworkMethods\ReverseNumber\bin\Debug\ReverseNumber.exe
+D:\Programmierung\C#\C#Part2\HomeworkMethods\ReverseNumber\bin\Debug\ReverseNumber.pdb
+D:\Programmierung\C#\C#Part2\HomeworkMethods\ReverseNumber\obj\Debug\ReverseNumber.exe
+D:\Programmierung\C#\C#Part2\HomeworkMethods\ReverseNumber\obj\Debug\ReverseNumber.pdb

@@ -1,0 +1,6 @@
+D:\Programmierung\C#\C#Part2\HomeworkMethods\IntegerCalculations\bin\Debug\IntegerCalculations.exe.config
+D:\Programmierung\C#\C#Part2\HomeworkMethods\IntegerCalculations\bin\Debug\IntegerCalculations.exe
+D:\Programmierung\C#\C#Part2\HomeworkMethods\IntegerCalculations\bin\Debug\IntegerCalculations.pdb
+D:\Programmierung\C#\C#Part2\HomeworkMethods\IntegerCalculations\obj\Debug\IntegerCalculations.exe
+D:\Programmierung\C#\C#Part2\HomeworkMethods\IntegerCalculations\obj\Debug\IntegerCalculations.pdb
+D:\Programmierung\C#\C#Part2\HomeworkMethods\IntegerCalculations\obj\Debug\IntegerCalculations.csprojResolveAssemblyReference.cache
