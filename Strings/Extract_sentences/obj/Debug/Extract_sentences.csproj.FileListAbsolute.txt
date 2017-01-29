@@ -1,0 +1,5 @@
+D:\Programmierung\C#\C#Part2\Strings\Extract_sentences\bin\Debug\Extract_sentences.exe.config
+D:\Programmierung\C#\C#Part2\Strings\Extract_sentences\bin\Debug\Extract_sentences.exe
+D:\Programmierung\C#\C#Part2\Strings\Extract_sentences\bin\Debug\Extract_sentences.pdb
+D:\Programmierung\C#\C#Part2\Strings\Extract_sentences\obj\Debug\Extract_sentences.exe
+D:\Programmierung\C#\C#Part2\Strings\Extract_sentences\obj\Debug\Extract_sentences.pdb

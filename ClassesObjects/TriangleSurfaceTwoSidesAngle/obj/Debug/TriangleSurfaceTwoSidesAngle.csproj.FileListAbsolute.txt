@@ -1,0 +1,6 @@
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\TriangleSurfaceTwoSidesAngle\bin\Debug\TriangleSurfaceTwoSidesAngle.exe.config
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\TriangleSurfaceTwoSidesAngle\bin\Debug\TriangleSurfaceTwoSidesAngle.exe
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\TriangleSurfaceTwoSidesAngle\bin\Debug\TriangleSurfaceTwoSidesAngle.pdb
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\TriangleSurfaceTwoSidesAngle\obj\Debug\TriangleSurfaceTwoSidesAngle.csprojResolveAssemblyReference.cache
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\TriangleSurfaceTwoSidesAngle\obj\Debug\TriangleSurfaceTwoSidesAngle.exe
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\TriangleSurfaceTwoSidesAngle\obj\Debug\TriangleSurfaceTwoSidesAngle.pdb

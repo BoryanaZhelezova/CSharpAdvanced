@@ -1,0 +1,5 @@
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\TriangleSurfaceSideandAltitude\bin\Debug\TriangleSurfaceSideandAltitude.exe.config
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\TriangleSurfaceSideandAltitude\bin\Debug\TriangleSurfaceSideandAltitude.exe
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\TriangleSurfaceSideandAltitude\bin\Debug\TriangleSurfaceSideandAltitude.pdb
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\TriangleSurfaceSideandAltitude\obj\Debug\TriangleSurfaceSideandAltitude.exe
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\TriangleSurfaceSideandAltitude\obj\Debug\TriangleSurfaceSideandAltitude.pdb

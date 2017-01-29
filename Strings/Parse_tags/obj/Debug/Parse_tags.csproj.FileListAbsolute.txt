@@ -1,0 +1,6 @@
+D:\Programmierung\C#\C#Part2\Strings\Parse_tags\bin\Debug\Parse_tags.exe.config
+D:\Programmierung\C#\C#Part2\Strings\Parse_tags\bin\Debug\Parse_tags.exe
+D:\Programmierung\C#\C#Part2\Strings\Parse_tags\bin\Debug\Parse_tags.pdb
+D:\Programmierung\C#\C#Part2\Strings\Parse_tags\obj\Debug\Parse_tags.exe
+D:\Programmierung\C#\C#Part2\Strings\Parse_tags\obj\Debug\Parse_tags.pdb
+D:\Programmierung\C#\C#Part2\Strings\Parse_tags\obj\Debug\Parse_tags.csprojResolveAssemblyReference.cache

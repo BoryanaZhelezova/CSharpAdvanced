@@ -1,0 +1,6 @@
+D:\Programmierung\C#\C#Part2\Strings\Correct_brackets\bin\Debug\Correct_brackets.exe.config
+D:\Programmierung\C#\C#Part2\Strings\Correct_brackets\bin\Debug\Correct_brackets.exe
+D:\Programmierung\C#\C#Part2\Strings\Correct_brackets\bin\Debug\Correct_brackets.pdb
+D:\Programmierung\C#\C#Part2\Strings\Correct_brackets\obj\Debug\Correct_brackets.csprojResolveAssemblyReference.cache
+D:\Programmierung\C#\C#Part2\Strings\Correct_brackets\obj\Debug\Correct_brackets.exe
+D:\Programmierung\C#\C#Part2\Strings\Correct_brackets\obj\Debug\Correct_brackets.pdb

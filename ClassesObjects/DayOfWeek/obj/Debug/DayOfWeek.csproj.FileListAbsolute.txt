@@ -1,0 +1,5 @@
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\DayOfWeek\bin\Debug\DayOfWeek.exe
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\DayOfWeek\bin\Debug\DayOfWeek.pdb
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\DayOfWeek\obj\Debug\DayOfWeek.exe
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\DayOfWeek\obj\Debug\DayOfWeek.pdb

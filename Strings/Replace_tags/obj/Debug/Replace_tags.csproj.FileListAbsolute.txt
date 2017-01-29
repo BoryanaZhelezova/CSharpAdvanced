@@ -1,0 +1,6 @@
+D:\Programmierung\C#\C#Part2\Strings\Replace_tags\bin\Debug\Replace_tags.exe.config
+D:\Programmierung\C#\C#Part2\Strings\Replace_tags\bin\Debug\Replace_tags.exe
+D:\Programmierung\C#\C#Part2\Strings\Replace_tags\bin\Debug\Replace_tags.pdb
+D:\Programmierung\C#\C#Part2\Strings\Replace_tags\obj\Debug\Replace_tags.csprojResolveAssemblyReference.cache
+D:\Programmierung\C#\C#Part2\Strings\Replace_tags\obj\Debug\Replace_tags.exe
+D:\Programmierung\C#\C#Part2\Strings\Replace_tags\obj\Debug\Replace_tags.pdb

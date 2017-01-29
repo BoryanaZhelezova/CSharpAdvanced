@@ -1,0 +1,5 @@
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\Triangle_surfaceThreeSides\bin\Debug\Triangle_surfaceThreeSides.exe.config
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\Triangle_surfaceThreeSides\bin\Debug\Triangle_surfaceThreeSides.exe
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\Triangle_surfaceThreeSides\bin\Debug\Triangle_surfaceThreeSides.pdb
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\Triangle_surfaceThreeSides\obj\Debug\Triangle_surfaceThreeSides.exe
+D:\Programmierung\C#\C#Part2\Using-Classes-and-Objects\Triangle_surfaceThreeSides\obj\Debug\Triangle_surfaceThreeSides.pdb

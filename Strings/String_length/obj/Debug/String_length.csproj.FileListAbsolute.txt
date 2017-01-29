@@ -1,0 +1,5 @@
+D:\Programmierung\C#\C#Part2\Strings\String_length\bin\Debug\String_length.exe.config
+D:\Programmierung\C#\C#Part2\Strings\String_length\bin\Debug\String_length.exe
+D:\Programmierung\C#\C#Part2\Strings\String_length\bin\Debug\String_length.pdb
+D:\Programmierung\C#\C#Part2\Strings\String_length\obj\Debug\String_length.exe
+D:\Programmierung\C#\C#Part2\Strings\String_length\obj\Debug\String_length.pdb

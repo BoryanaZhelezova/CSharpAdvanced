@@ -1,0 +1,6 @@
+D:\Programmierung\C#\C#Part2\Strings\EncodeAndDecode\bin\Debug\EncodeAndDecode.exe.config
+D:\Programmierung\C#\C#Part2\Strings\EncodeAndDecode\bin\Debug\EncodeAndDecode.exe
+D:\Programmierung\C#\C#Part2\Strings\EncodeAndDecode\bin\Debug\EncodeAndDecode.pdb
+D:\Programmierung\C#\C#Part2\Strings\EncodeAndDecode\obj\Debug\EncodeAndDecode.exe
+D:\Programmierung\C#\C#Part2\Strings\EncodeAndDecode\obj\Debug\EncodeAndDecode.pdb
+D:\Programmierung\C#\C#Part2\Strings\EncodeAndDecode\obj\Debug\EncodeAndDecode.csprojResolveAssemblyReference.cache

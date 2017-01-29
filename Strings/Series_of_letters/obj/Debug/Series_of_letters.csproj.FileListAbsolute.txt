@@ -1,0 +1,6 @@
+D:\Programmierung\C#\C#Part2\Strings\Series_of_letters\bin\Debug\Series_of_letters.exe.config
+D:\Programmierung\C#\C#Part2\Strings\Series_of_letters\bin\Debug\Series_of_letters.exe
+D:\Programmierung\C#\C#Part2\Strings\Series_of_letters\bin\Debug\Series_of_letters.pdb
+D:\Programmierung\C#\C#Part2\Strings\Series_of_letters\obj\Debug\Series_of_letters.csprojResolveAssemblyReference.cache
+D:\Programmierung\C#\C#Part2\Strings\Series_of_letters\obj\Debug\Series_of_letters.exe
+D:\Programmierung\C#\C#Part2\Strings\Series_of_letters\obj\Debug\Series_of_letters.pdb

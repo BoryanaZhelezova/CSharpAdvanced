@@ -1,0 +1,5 @@
+D:\Programmierung\C#\C#Part2\Strings\Unicode_characters\bin\Debug\Unicode_characters.exe.config
+D:\Programmierung\C#\C#Part2\Strings\Unicode_characters\bin\Debug\Unicode_characters.exe
+D:\Programmierung\C#\C#Part2\Strings\Unicode_characters\bin\Debug\Unicode_characters.pdb
+D:\Programmierung\C#\C#Part2\Strings\Unicode_characters\obj\Debug\Unicode_characters.exe
+D:\Programmierung\C#\C#Part2\Strings\Unicode_characters\obj\Debug\Unicode_characters.pdb
