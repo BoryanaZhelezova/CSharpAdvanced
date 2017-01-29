@@ -1,0 +1,6 @@
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\HexadecimalBinary\bin\Debug\HexadecimalBinary.exe.config
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\HexadecimalBinary\bin\Debug\HexadecimalBinary.exe
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\HexadecimalBinary\bin\Debug\HexadecimalBinary.pdb
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\HexadecimalBinary\obj\Debug\HexadecimalBinary.csprojResolveAssemblyReference.cache
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\HexadecimalBinary\obj\Debug\HexadecimalBinary.exe
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\HexadecimalBinary\obj\Debug\HexadecimalBinary.pdb

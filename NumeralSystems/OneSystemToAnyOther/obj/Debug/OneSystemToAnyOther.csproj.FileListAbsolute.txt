@@ -1,0 +1,6 @@
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\OneSystemToAnyOther\bin\Debug\OneSystemToAnyOther.exe.config
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\OneSystemToAnyOther\bin\Debug\OneSystemToAnyOther.exe
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\OneSystemToAnyOther\bin\Debug\OneSystemToAnyOther.pdb
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\OneSystemToAnyOther\obj\Debug\OneSystemToAnyOther.csprojResolveAssemblyReference.cache
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\OneSystemToAnyOther\obj\Debug\OneSystemToAnyOther.exe
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\OneSystemToAnyOther\obj\Debug\OneSystemToAnyOther.pdb

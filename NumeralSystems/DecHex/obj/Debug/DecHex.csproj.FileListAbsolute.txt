@@ -1,0 +1,6 @@
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\DecHex\bin\Debug\DecHex.exe.config
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\DecHex\bin\Debug\DecHex.exe
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\DecHex\bin\Debug\DecHex.pdb
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\DecHex\obj\Debug\DecHex.csprojResolveAssemblyReference.cache
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\DecHex\obj\Debug\DecHex.exe
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\DecHex\obj\Debug\DecHex.pdb

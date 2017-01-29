@@ -1,0 +1,6 @@
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryShort1\bin\Debug\BinaryShort1.exe.config
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryShort1\bin\Debug\BinaryShort1.exe
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryShort1\bin\Debug\BinaryShort1.pdb
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryShort1\obj\Debug\BinaryShort1.csprojResolveAssemblyReference.cache
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryShort1\obj\Debug\BinaryShort1.exe
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryShort1\obj\Debug\BinaryShort1.pdb

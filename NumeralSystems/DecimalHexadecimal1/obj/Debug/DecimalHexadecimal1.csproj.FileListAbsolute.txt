@@ -1,0 +1,5 @@
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\DecimalHexadecimal1\bin\Debug\DecimalHexadecimal1.exe.config
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\DecimalHexadecimal1\bin\Debug\DecimalHexadecimal1.exe
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\DecimalHexadecimal1\bin\Debug\DecimalHexadecimal1.pdb
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\DecimalHexadecimal1\obj\Debug\DecimalHexadecimal1.exe
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\DecimalHexadecimal1\obj\Debug\DecimalHexadecimal1.pdb

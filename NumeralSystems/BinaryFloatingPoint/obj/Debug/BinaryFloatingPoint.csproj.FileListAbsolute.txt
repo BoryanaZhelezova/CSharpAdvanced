@@ -1,0 +1,6 @@
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryFloatingPoint\bin\Debug\BinaryFloatingPoint.exe.config
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryFloatingPoint\bin\Debug\BinaryFloatingPoint.exe
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryFloatingPoint\bin\Debug\BinaryFloatingPoint.pdb
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryFloatingPoint\obj\Debug\BinaryFloatingPoint.csprojResolveAssemblyReference.cache
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryFloatingPoint\obj\Debug\BinaryFloatingPoint.exe
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryFloatingPoint\obj\Debug\BinaryFloatingPoint.pdb

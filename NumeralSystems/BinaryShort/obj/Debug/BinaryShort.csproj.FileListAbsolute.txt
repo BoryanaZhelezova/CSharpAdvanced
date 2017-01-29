@@ -1,0 +1,5 @@
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryShort\bin\Debug\BinaryShort.exe.config
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryShort\bin\Debug\BinaryShort.exe
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryShort\bin\Debug\BinaryShort.pdb
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryShort\obj\Debug\BinaryShort.exe
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryShort\obj\Debug\BinaryShort.pdb

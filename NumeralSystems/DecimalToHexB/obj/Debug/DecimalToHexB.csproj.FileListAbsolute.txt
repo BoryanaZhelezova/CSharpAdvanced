@@ -1,0 +1,6 @@
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\DecimalToHexB\bin\Debug\DecimalToHexB.exe.config
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\DecimalToHexB\bin\Debug\DecimalToHexB.exe
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\DecimalToHexB\bin\Debug\DecimalToHexB.pdb
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\DecimalToHexB\obj\Debug\DecimalToHexB.csprojResolveAssemblyReference.cache
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\DecimalToHexB\obj\Debug\DecimalToHexB.exe
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\DecimalToHexB\obj\Debug\DecimalToHexB.pdb

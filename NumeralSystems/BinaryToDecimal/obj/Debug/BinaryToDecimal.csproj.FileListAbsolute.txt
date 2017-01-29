@@ -1,0 +1,5 @@
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+D:\Programmierung\C#\C#Part2\Numeral-SystemsHomework\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb
