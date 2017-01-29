@@ -1,0 +1,5 @@
+D:\Programmierung\C#\MultidimensionalArrays\SequenceMatrix\bin\Debug\SequenceMatrix.exe.config
+D:\Programmierung\C#\MultidimensionalArrays\SequenceMatrix\bin\Debug\SequenceMatrix.exe
+D:\Programmierung\C#\MultidimensionalArrays\SequenceMatrix\bin\Debug\SequenceMatrix.pdb
+D:\Programmierung\C#\MultidimensionalArrays\SequenceMatrix\obj\Debug\SequenceMatrix.exe
+D:\Programmierung\C#\MultidimensionalArrays\SequenceMatrix\obj\Debug\SequenceMatrix.pdb
